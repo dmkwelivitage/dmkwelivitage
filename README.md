@@ -29,7 +29,7 @@ Welcome to my GitHub profile! I’m a passionate Student currently Reading a HD 
 ## 🤔 Fun Facts About Me
 
 - 🎮 I love playing Multiplayer Games with friends.
-- 📚 I'm currently stuyding on DSA.
+- 📚 I'm currently studying on Data Structures and Algorithms.
 - 🎧 Favorite music genre: Pop.
 - 🐶 Pet lover! Would love to be an owner of a cute puppy!.
 
