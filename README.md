@@ -4,9 +4,9 @@ Welcome to my GitHub profile! I’m a passionate Student currently Reading a HD 
 
 ## 🔭 What I'm Working On
 
-- 🌱 Currently learning [Technologies you're learning].
-- 🔨 Building [Your current projects].
-- 💡 Exploring [New tools, frameworks, or concepts].
+- 🌱 Currently learning up on AWS.
+- 🔨 Building Web Applications.
+- 💡 Exploring Flutter and ReactJS.
 
 ## 💼 My Skills
 
